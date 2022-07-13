@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from 🏡Uttar Pradesh,India</h3>
 <img align="right" alt="Coding" width="300" src="https://media3.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif?cid=ecf05e47y535s9v3a07gzhksks1dvf0x9npezbo36twk47vf&rid=giphy.gif&ct=g">
 
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=anmolpal2001&label=Profile%20views&color=0e75b6&style=flat" alt="anmolpal2001" /> </p>-->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anmolpal2001&label=Profile%20views&color=0e75b6&style=flat" alt="anmolpal2001" /> </p>
 
 <br>
 
