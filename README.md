@@ -76,3 +76,5 @@
 ## 🚀 About Me:
 - 🔭 I’m a Pre-Final year undergrad pursuing B.Tech in Computer Science!
 - 👨‍💻I am a Front-End Developer
+
+[![@anmolpal2001's Holopin board](https://holopin.me/anmolpal2001)](https://holopin.io/@anmolpal2001)
